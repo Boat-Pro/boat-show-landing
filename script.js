@@ -1,7 +1,7 @@
 // Configuration - UPDATE THESE VALUES
 const CONFIG = {
     // Formspree form endpoint (sign up at formspree.io)
-    formspreeEndpoint: 'https://formspree.io/f/YOUR_FORM_ID',
+    formspreeEndpoint: 'https://formspree.io/f/xnngvgeq',
     
     // Stripe Payment Link (create at stripe.com/dashboard)
     stripePaymentLink: 'https://buy.stripe.com/YOUR_LINK_HERE',
@@ -168,4 +168,5 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', 'YOUR_PIXEL_ID');
 fbq('track', 'PageView');
+
 */
